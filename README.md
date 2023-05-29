@@ -1,5 +1,7 @@
 # DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection
-
+Senior thesis　(of kitakyushu University)
+## Abstract
+In this study, we discuss the problem of network community detection, which aims at dividing the nodes in a network into some groups based on the structure of the network. The problem is mathematically formulated as combinatorial optimization, and hence it is hard to solve. In this paper, we adopt the modularity optimization heuristic to solve this. The optimization problem is described as maximizing a convex function with binary variables. To efficiently find an optimal solution, we propose a difference-of-convex (DC) programming with the sum-of-absolute-values regularization. By numerical experiments, we compare the proposed method with existing methods using several benchmark networks. The results show the effectiveness of the proposed method.
 
 ## Zachary's Karate club Network
 Here is the code for the community detection of the Karate Club Network by CNM method and Spectral modularity optimization.<br>
