@@ -3,7 +3,7 @@
 # Experimental Result
 ## Zachary's Karate club Network
 
-<img width="131" alt="image" src="https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/assets/98382027/7229ddb7-cda1-4286-ba0e-259eacceeb95">//
+<img width="131" alt="image" src="https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/assets/98382027/7229ddb7-cda1-4286-ba0e-259eacceeb95">/
                
 <img width="327" alt="スクリーンショット 2023-05-29 20 11 42" src="https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/assets/98382027/8675ca6f-3ca8-4d70-8a42-37d5a17fc3f1">
 
