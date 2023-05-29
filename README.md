@@ -10,7 +10,9 @@
 ## LFR Benchmark Graph
 
 <img width="131" alt="image" src="https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/assets/98382027/aa8ed945-ca28-4bda-89d8-9c8190003886">
-                       
+
+
+
 <img width="328" alt="スクリーンショット 2023-05-29 20 14 56" src="https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/assets/98382027/eb7f8afe-e2f1-44e0-a094-23331db596e6">
 
 ## Planted Partition Graph
