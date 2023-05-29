@@ -11,12 +11,9 @@
 
 <html xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
-
 <head>
-
 <meta name=ProgId content=PowerPoint.Slide>
 <meta name=Generator content="Microsoft PowerPoint 15">
-<style>
 <!--tr
 	{mso-height-source:auto;}
 col
@@ -86,23 +83,14 @@ td
 	padding-top:3.6pt;
 	padding-right:7.2pt;}
 -->
-</style>
 </head>
-
 <body>
 <!--StartFragment-->
-
-
-
 Method | Zachary’s karate club network
 -- | --
 Proposed   Method | 0.837
 Spectral   modularity optimization | 0.837
 CNM   method | 0.732
-
-
-
 <!--EndFragment-->
 </body>
-
 </html>
