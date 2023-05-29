@@ -2,10 +2,10 @@
 
 
 ## Zachary's Karate club Network
-Here is the code for the community detection of the Karate Club Network by CNM method and Spectral modularity optimization.
-https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/blob/main/Karate_CNM_Spectral.ipynb
-Here is the code for the community detection of the Karate Club Network by CNM method and Spectral modularity optimization Proposed method.
-https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/blob/main/Karate_Proposed.ipynb
+Here is the code for the community detection of the Karate Club Network by CNM method and Spectral modularity optimization.<br>
+https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/blob/main/Karate_CNM_Spectral.ipynb<br>
+Here is the code for the community detection of the Karate Club Network by CNM method and Spectral modularity optimization Proposed method.<br>
+https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/blob/main/Karate_Proposed.ipynb<br>
 <img width="131" alt="image" src="https://github.com/Iwaiy/DC-Programming-with-Sum-of-Absolute-Values-Regularization-for-Network-Community-Detection/assets/98382027/7229ddb7-cda1-4286-ba0e-259eacceeb95">
 
 ## LFR Benchmark Graph
